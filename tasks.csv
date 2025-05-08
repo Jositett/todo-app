@@ -1,0 +1,2 @@
+task_id,user_id,title,description,due_date,status,created_at,priority
+1,Joe,Create ToDo App,Create ToDo App for class project,2025-05-11T20:30,INCOMPLETE,2025-05-08T20:46:03.041921800,HIGH
